@@ -1,0 +1,28 @@
+{
+    "tasks": [
+    {
+        "id": 1,
+        "text":"Project Due",
+        "day": "February 9th @ 12:00AM",
+        "reminder": true
+    },
+    {
+        "id": 2,
+        "text":"Doctors Appointment",
+        "day": "February 5th @ 11:00AM",
+        "reminder": true
+    },
+    {
+        "id": 3,
+        "text":"Mechanic",
+        "day": "February 26th @ 08:00AM",
+        "reminder": true
+    },
+    {
+        "id": 4,
+        "text":"Pay Day",
+        "day": "February 28th @ 02:00PM",
+        "reminder": true
+    }
+    ]
+}
